@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Charles Pitcher
+  email = charlespitcher4@gmail.com
 [core]
-  editor = vi
+  editor = code
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
@@ -11,7 +11,7 @@
   interactive = auto
   status = auto
 [init]
-  defaultBranch = master
+  defaultBranch = main
 [web]
   browser = google-chrome
 [credential]
