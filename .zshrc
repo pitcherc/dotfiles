@@ -13,6 +13,9 @@ plugins=(git zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
+path+=("$HOME/Library/Python/3.9/bin")
+path+=('/opt/homebrew/bin')
+
 # =============================================================================
 #                                   Colors
 # =============================================================================
